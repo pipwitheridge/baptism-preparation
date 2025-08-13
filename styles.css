@@ -1,0 +1,13 @@
+body {
+    line-height: 1.5;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.red {
+    color: red;
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
